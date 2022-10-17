@@ -1,0 +1,18 @@
+h4{
+    color:blue;
+    background-color: rgb(125, 244, 161);
+}
+h5{
+    color:red;
+}
+h6{
+    color:rgb(134, 28, 134);
+}
+p{
+    color:black;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+  }
